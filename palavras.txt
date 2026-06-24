@@ -762,9 +762,6 @@ gosta
 goste
 gosto
 gotas
-gozar
-gozas
-gozos
 grade
 grado
 grafa
@@ -834,7 +831,6 @@ hoste
 hotel
 houve
 hulha
-human
 humor
 humus
 hunos
